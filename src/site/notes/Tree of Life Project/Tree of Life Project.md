@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tree-of-life-project/tree-of-life-project/"}
+{"dg-publish":true,"permalink":"/tree-of-life-project/tree-of-life-project/","tags":["tree-of-life"]}
 ---
 
 

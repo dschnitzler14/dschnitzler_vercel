@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/django/"}
+{"dg-publish":true,"permalink":"/django/","tags":["learning"]}
 ---
 
 
