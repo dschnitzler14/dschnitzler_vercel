@@ -9,7 +9,7 @@ Django is a framework for python for web development. It's a steep learning curv
 
 ## Why am I learning it then?
 While it sometimes feels like a waste of time to be learning how to make sturdy websites (honestly it feels so far removed from science that I doubt my decisions sometimes), I *do*
-want to learn it because it will help me build the thing that I actually want to build, which is the [[Paperstars/Paperstars Project\|Paperstars Project]]. 
+want to learn it because it will help me build the thing that I actually want to build, which is the [[Paperstars/Meta Science\|Meta Science]]. 
 
 ## How am I learning it?
 Mostly through Youtube videos, but I have also bought an online course because this guy did a good job explaining the concepts in the free taster videos. 

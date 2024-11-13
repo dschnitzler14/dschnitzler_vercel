@@ -9,6 +9,6 @@ I'm yet to see how exactly this will turn out, as I have a number of different p
 
 Projects I am working on
 - [[Tree of Life Project/Tree of Life Project\|Tree of Life Project]]
-- [[Paperstars/Paperstars Project\|Paperstars Project]]
+- [[Paperstars/Meta Science\|Meta Science]]
 - [[Depression Project/Depression Project\|Depression Project]]
 
