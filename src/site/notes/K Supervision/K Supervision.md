@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/k-supervision/k-supervision/"}
+{"dg-publish":true,"permalink":"/k-supervision/k-supervision/","noteIcon":""}
 ---
 

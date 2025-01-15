@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/projects/"}
+{"dg-publish":true,"permalink":"/digital-gardening/projects/","noteIcon":""}
 ---
 
 I had a long and hard think about where my interests lie and what I am passionate about. I tried to gather all my different projects into three key pillars:

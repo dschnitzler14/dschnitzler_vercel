@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/depression-project/depression-project-working-abstract/"}
+{"dg-publish":true,"permalink":"/depression-project/depression-project-working-abstract/","noteIcon":""}
 ---
 
 
@@ -37,7 +37,7 @@ The current aims are as follows
 	6. Sex Hormones
 	7. Depression and Exercise
 	8. Gut Microbiome
-	9. Mitochondrial Hypothesis
+	9. [[Depression Project/Mitochondrial Hypothesis\|Mitochondrial Hypothesis]]
 4. Depression and Hibernation
 	1. SAD
 	2. Human Seasonality

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/education/"}
+{"dg-publish":true,"permalink":"/digital-gardening/education/","noteIcon":""}
 ---
 
 This is the one of the three pillars of work I am passionate about. In this pillar I include all mentoring/ supervising, creating educational tools, teaching (when it is time), etc. 

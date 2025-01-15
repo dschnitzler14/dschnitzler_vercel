@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paperstars/paperstars-project/","tags":["paperstars","meta-science"]}
+{"dg-publish":true,"permalink":"/paperstars/paperstars-project/","tags":["paperstars","meta-science"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textbook-companion/textbook-companion/"}
+{"dg-publish":true,"permalink":"/textbook-companion/textbook-companion/","noteIcon":""}
 ---
 
 
