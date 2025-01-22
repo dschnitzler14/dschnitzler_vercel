@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/depression-research-questions/"}
+{"dg-publish":true,"permalink":"/0-work/depression-project/depression-project-working-abstract/"}
 ---
 
+
+# Overview
 This pillar is still a very ambiguous project concerning the evolutionary origins of depression. A brief summary of my thoughts that form the basis of my questions:
 
 Anxiety has a clear evolutionary origin, wherein the "fight or flight" response is inappropriately engaged in an exaggerated manner. However, while the response is aberrant, the origin of this mechanism has a clear survival benefit. Conversely, depression is not usually discussed in similar terms of evolutionary adaptation. Nonetheless, the fundamental feature of fatigue experienced in depression may highlight that depression is in fact also a maladaptation of an evolutionary survival mechanism relating to energy conservation.
@@ -18,24 +20,31 @@ The current aims are as follows
 2. Plan (and carry out) a data-based experiment using specific data, where alternative analysis might yield a potential target for further experimentation
 
 
+# Outline of Review
+1. Introduction
+2. Existing Frameworks of Depression
+	1. Monoamine Hypothesis
+		- Outline Theory
+		- Theory Limitations
+		- Relate to Energy Conservation
+	1. HPA Axis Dysregulation
+		- Outline Theory
+		- Theory Limitations
+		- Relate to Energy Conservation
+	3. Inflammatory Process
+	4. Neuroplasticitiy
+	5. Seasonal/ Circadian Rhythms
+	6. Sex Hormones
+	7. Depression and Exercise
+	8. Gut Microbiome
+	9. [[0_Work/Depression Project/Mitochondrial Hypothesis\|Mitochondrial Hypothesis]]
+4. Depression and Hibernation
+	1. SAD
+	2. Human Seasonality
+	3. Hibernating Mammals
+5. Misc. Thoughts
+	1. Sunburn?
+6. Next Steps: Roadmap
+7. Conclusion
 
-___
-## 1	References
 
-Bansal, Y., Kuhad, A., 2016. Mitochondrial Dysfunction in Depression. Curr Neuropharmacol 14, 610–618.
-
-Barbour, K.A., Edenfield, T.M., Blumenthal, J.A., 2007. Exercise as a Treatment for Depression and Other Psychiatric Disorders: A REVIEW. Journal of Cardiopulmonary Rehabilitation and Prevention 27, 359–367.
-
-Canguilhem, B., Miro, J.L., Kempf, E., Schmitt, P., 1986. Does serotonin play a role in entrance into hibernation? American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 251, R755–R761.
-
-Corfield, E.C., Martin, N.G., Nyholt, D.R., 2016. Co-occurrence and symptomatology of fatigue and depression. Comprehensive Psychiatry 71, 1–10.
-
-Eagles, J.M., 2004. Seasonal affective disorder: a vestigial evolutionary advantage? Medical Hypotheses 63, 767–772.
-
-Ferrari, F., Villa, R.F., 2017. The Neurobiology of Depression: an Integrated Overview from Biological Theories to Clinical Evidence. Molecular Neurobiology 54, 4847–4865.
-
-Gardner, A., Boles, R.G., 2011. Beyond the serotonin hypothesis: Mitochondria, inflammation and neurodegeneration in major depression and affective spectrum disorders. Progress in Neuro-Psychopharmacology and Biological Psychiatry, The Neuro-inflammatory and Neuroprogressive Pathways in Depression 35, 730–743.
-
-Haak, L.L., Mignot, E., Kilduff, T.S., Dement, W.C., Heller, H.C., 1991. Regional changes in central monoamine and metabolite levels during the hibernation cycle in the golden-mantled ground squirrel. Brain Research 563, 215–220.
-
-Tsiouris, J.A., 2005. Metabolic depression in hibernation and major depression: An explanatory theory and an animal model of depression. Medical Hypotheses 65, 829–840.

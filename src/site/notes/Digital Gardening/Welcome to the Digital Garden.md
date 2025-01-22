@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/welcome-to-the-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-gardening/welcome-to-the-digital-garden/","tags":["gardenEntry"]}
 ---
 
 Learn more about a [[Digital Gardening/Digital Garden\|Digital Garden]]!
