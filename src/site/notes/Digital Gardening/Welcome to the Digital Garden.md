@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/welcome-to-the-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-gardening/welcome-to-the-digital-garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-Learn more about a [[Digital Gardening/Digital Garden\|Digital Garden]]!
+Learn more about a [[Digital Gardening/Digital Garden Notes/Digital Garden\|Digital Gardening/Digital Garden Notes/Digital Garden]]!
 
 I'm yet to see how exactly this will turn out, as I have a number of different projects, but for now I'm linking my daily notes. 
 

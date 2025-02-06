@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-work/depression-project/depression-project-working-abstract/"}
+{"dg-publish":true,"permalink":"/0-work/depression-project/depression-project-working-abstract/","noteIcon":""}
 ---
 
 

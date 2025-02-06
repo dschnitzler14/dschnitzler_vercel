@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/depression-research-questions/"}
+{"dg-publish":true,"permalink":"/digital-gardening/depression-research-questions/","noteIcon":""}
 ---
 
 This pillar is still a very ambiguous project concerning the evolutionary origins of depression. A brief summary of my thoughts that form the basis of my questions:

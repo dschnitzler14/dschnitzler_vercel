@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/meta-science/"}
+{"dg-publish":true,"permalink":"/digital-gardening/meta-science/","noteIcon":""}
 ---
 
 The second pillar is my interest in the vague and broadly defined "meta-science". This is an interest in Science as a field, rather than a specific sub-topic. I am interested in untangling some of the mess that is Science.
