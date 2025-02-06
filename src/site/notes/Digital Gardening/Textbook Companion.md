@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/textbook-companion/","noteIcon":""}
+{"dg-publish":true,"dg-path":"Textbook Companion.md","permalink":"/textbook-companion/","noteIcon":""}
 ---
 
 

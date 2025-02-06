@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-gardening/l-analytics/","tags":["teaching","l-analytics","shiny"],"noteIcon":""}
+{"dg-publish":true,"dg-path":"L-analytics.md","permalink":"/l-analytics/","tags":["teaching","l-analytics","shiny"],"noteIcon":""}
 ---
 
 This is a shiny-based project that I am coming into laterally and latterly. This is to say, I am working with one of the lab's PhD students to tidy up and publish this tool. 
